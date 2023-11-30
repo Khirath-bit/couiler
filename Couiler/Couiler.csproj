@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Args to Command-Method Mapper</Title>
+    <Description>Small library to provide program arguments to method mapping by adding attributes.</Description>
+    <PackageProjectUrl>https://github.com/Khirath-bit/couiler</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/Khirath-bit/couiler</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>command;commands;arguments;library</PackageTags>
+    <PackageReleaseNotes>Initial release with basic features described in the README.md</PackageReleaseNotes>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
