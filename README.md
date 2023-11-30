@@ -1,5 +1,7 @@
 # Couiler - argument to command mapper
 
+[![.NET](https://github.com/Khirath-bit/couiler/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Khirath-bit/couiler/actions/workflows/dotnet.yml)
+
 ## Usage
 ```Easiest way is to checkout the example folder in the project files.```
 
